@@ -1,0 +1,8 @@
+[tools]
+nodejs = '18.19.0'
+
+[settings]
+status = {show_tools = true}
+
+[env]
+_.file = '.env'
